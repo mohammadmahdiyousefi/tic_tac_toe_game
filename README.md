@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img src="https://github.com/mohammadmahdiyousefi/tic_tac_toe_game/assets/103829998/c5af1c7c-6b68-4d1a-a1f4-e2150c8b031c" width="250"> 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
